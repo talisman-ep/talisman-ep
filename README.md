@@ -35,12 +35,6 @@ Here is how I apply my skills to real-world tasks:
 
 ---
 
-### 📈 GitHub Stats
-
-![Yevhenii's GitHub stats](https://github-readme-stats.vercel.app/api?username=talisman-ep&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talisman-ep&layout=compact&theme=dark&hide_border=true)
----
-
 ### 🌱 Currently Learning & Focusing on
 * **Product Analytics:** Cohort Analysis, Retention, A/B Testing, Unit Economics.
 * **Sports Analytics:** Building xG (Expected Goals) models and analyzing football metrics.
